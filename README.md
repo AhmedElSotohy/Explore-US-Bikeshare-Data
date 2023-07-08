@@ -1,7 +1,7 @@
 # Explore-US-Bikeshare-Data
-Project summary: "Bike Share Data Analysis Bicycle-sharing systems have become increasingly popular in cities worldwide, providing a convenient and eco-friendly transportation option. With the rise of information technologies, it’s now easier than ever for users to access and return bikes, while also generating valuable data on usage patterns.
+Project summary: Bike Share Data Analysis Bicycle-sharing systems have become increasingly popular in cities worldwide, providing a convenient and eco-friendly transportation option. With the rise of information technologies, it’s now easier than ever for users to access and return bikes, while also generating valuable data on usage patterns.
 
-In this project, I analyzed data from Motivate, a leading bike share system provider in the United States, to uncover usage patterns in three major cities: Chicago, New York City, and Washington, DC."
+In this project, I analyzed data from Motivate, a leading bike share system provider in the United States, to uncover usage patterns in three major cities: Chicago, New York City, and Washington, DC.
 
 Project description: The project required the ability to import and analyze large datasets to answer interesting questions and compute descriptive statistics.
 

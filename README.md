@@ -7,8 +7,11 @@ Project description: The project required the ability to import and analyze larg
 
 Solution: I developed a Python-based solution with the following features:
 1- The ability to import bike share data for Chicago, New York City, and Washington.
+
 2- The ability to compute descriptive statistics and answer interesting questions about the data.
+
 3- An interactive script that creates an engaging user experience in the terminal.
+
 4- Clear and concise presentation of statistics.
 
 My solution provided valuable insights into bike share usage in major cities, enabling data-driven decision making and planning. With my strong analytical skills and expertise in Python, I was able to deliver a high-quality analysis that can help guide future developments in bike share systems.

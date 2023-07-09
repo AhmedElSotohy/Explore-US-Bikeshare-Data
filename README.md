@@ -6,6 +6,7 @@ In this project, I analyzed data from Motivate, a leading bike share system prov
 Project description: The project required the ability to import and analyze large datasets to answer interesting questions and compute descriptive statistics.
 
 Solution: I developed a Python-based solution with the following features:
+
 1- The ability to import bike share data for Chicago, New York City, and Washington.
 
 2- The ability to compute descriptive statistics and answer interesting questions about the data.
